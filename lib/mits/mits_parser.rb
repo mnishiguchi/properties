@@ -160,7 +160,7 @@ class MitsParser
       # Step 1: Format/sanitize things.
       # ---
 
-
+      # Get copies of the info at the major nodes.
       identification = mits_parser_property.identification
       information    = mits_parser_property.information
       policy         = mits_parser_property.policy
